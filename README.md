@@ -1,6 +1,6 @@
 # Custom Loadouts
 
-# Note: This project is no longer maintained.
+# Note: This project will not be maintained.
 
 A loadout system for the [FiveM](https://forum.fivem.net) mod for GTA-V.
 Give your players the ability to change their skin and weapons!
